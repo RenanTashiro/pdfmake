@@ -27,6 +27,7 @@ Check out [the playground](http://bpampuch.github.io/pdfmake/playground.html) an
 
 ### Features
 
+* Use Roboto Mono instead of Roboto as default font for browser
 * line-wrapping,
 * text-alignments (left, right, centered, justified),
 * numbered and bulleted lists,
